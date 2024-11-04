@@ -174,12 +174,4 @@ Voyage 51 - team 22. September 2024
 
 ---
 
-### Special Thanks 🙏
 
-We as a whole team would like to thank Chingu platform and community for this opportunity to learn, improve and collaborate. Even though we did not fulfill the MVP for our app, we have learned a great amount of things in technical and non-technical areas. Thank you Chingu !
-
-Chingu is a platform that helps developers and other people in tech related roles practice in-demand skills and accelerate their learning through collaboration and project-building.
-
-Learn more about Chingu platform at https://www.chingu.io/
-
----
